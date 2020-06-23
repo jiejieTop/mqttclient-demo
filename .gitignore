@@ -1,0 +1,89 @@
+# Private settings
+private_settings.py
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+tmp/
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Python
+*.py[cod]
+
+# Eclipse Project Files
+.cproject
+.project
+.pydevproject
+
+# uVision generated files
+*.uvopt
+*.uvgui.*
+*.uvguix.*
+*.TMP
+*.scvd
+
+*.plg
+*.map
+*.lst
+*.lnp
+*.htm
+*.dep
+*.d
+*.crf
+*.bak
+
+*.axf
+*.S19
+*.bin
+*.hex
+*.dep
+*.FLM
+*.iex
+
+# JLink files
+JLink*.*
+
+# Output directories
+Output
+Lst
+Obj
+
+# cscope
+cscope.*
+
+# PyCharm project files
+.idea
+
+# ctags
+tags
+
+# Doxygen tags and html output
+*.tag
+html
+debug.txt
+
+settings
+
+#IAR files
+
+*.out
+*.sim
+*.log
+*.ld
+
+LTE_DTU_EC20_SIM7600CE-tos
+stm32f429-freertos
+stm32f429-rtt
+stm32f429-tos
+BearPi_STM32L431-tos
+EVB_MX_Plus-stm32l431-tos
+gokit3_stm32f103-tos
